@@ -1,0 +1,23 @@
+navbar utama		: .navbar.default-layout-navbar .navbar-menu-wrapper
+navbar horizontal   : .navbar.horizontal-layout-navbar
+navbar menu		: .navbar.default-layout-navbar .navbar-brand-wrapper
+icon navbar		: .navbar .navbar-menu-wrapper .count-indicator i
+text alamat navbar	: .card-subtitle2
+icon search		: .input-group-text
+icon sidebar		: .sidebar .nav .nav-item .nav-link i.menu-icon
+icon toogle 		: .navbar-toggler
+judul web		: .page-header h2
+nama user		: .sidebar .nav .nav-item.nav-profile .profile-name .name
+sidebar			: .sidebar
+menu sidebar		: .sidebar .nav .nav-item .nav-link
+submenu sidebar		: .sidebar .nav.sub-menu .nav-item .nav-link
+panah sidebar		: .sidebar .nav .nav-item .nav-link i.menu-arrow:before
+card title		: .card .card-title
+text portofolio		: .portfolio-grid figure figcaption
+backgroud portofolio	: .portfolio-grid figure
+
+background: linear-gradient(85deg, #392c70 , #6a005b );
+
+<script>
+            window.addEventListener("load", window.print());
+          </script>
